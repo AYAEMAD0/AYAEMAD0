@@ -9,7 +9,7 @@
 - 🌱 I’m learning **Advanced Flutter, State Management, API Integration**  
 - 📂 All of my projects are available on [My GitHub Profile](https://github.com/AYAEMAD0?tab=repositories)  
 - 💬 Ask me about **Flutter, Dart, Firebase**  
-- 📫 How to reach me: **ayaelbaroudy0@gmail.com**  
+- 📫 How to reach me: **ayaemadelbaroudy@gmail.com**  
 - ⚡ Fun fact: *I love turning complex problems into beautiful apps*  
 
 ---
@@ -40,10 +40,11 @@
 
 ## 📌 Popular Repositories  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=repo-name&theme=radical)](https://github.com/AYAEMAD0/repo-name)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=another-repo&theme=radical)](https://github.com/AYAEMAD0/another-repo)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=QuizApp&theme=radical)](https://github.com/AYAEMAD0/QuizApp)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=Weather-App&theme=radical)](https://github.com/AYAEMAD0/Weather-App)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=Meals&theme=radical)](https://github.com/AYAEMAD0/Meals)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=BMICalculatorApp&theme=radical)](https://github.com/AYAEMAD0/BMICalculatorApp)  
 
-*(بدلي `repo-name` و `another-repo` باسم مشاريعك الحقيقية)*  
 
 ---
 
@@ -62,7 +63,3 @@
 </p>
 
 ---
-
-## 💡 Daily Quote  
-> *"Good people with a good process will outperform good people with no process every time."* – Grady Booch  
-> *"Building apps isn't just my work – it's my passion."*  
