@@ -49,8 +49,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=Meals&theme=radical)](https://github.com/AYAEMAD0/Meals)  
 🍔 **Meals App** – A food recipe application. 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=BMICalculatorApp&theme=radical)](https://github.com/AYAEMAD0/BMICalculatorApp)  
-⚖️ **BMI Calculator** – A Flutter app that calculates **Body Mass Index (BMI)** using **API integration** and provides results with a simple UI.  
+[![BMI Calculator](https://img.shields.io/badge/BMI%20Calculator-A%20Flutter%20app%20using%20API%20for%20BMI%20calculation-blue?style=for-the-badge)](https://github.com/AYAEMAD0/BMICalculatorApp)
+
 
 
 ---
