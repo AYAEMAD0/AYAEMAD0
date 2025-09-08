@@ -6,7 +6,8 @@
 
 ## 🌟 About Me  
 - 🔭 I’m currently working on **Mobile App Projects**  
-- 🌱 I’m learning **Advanced Flutter, State Management, API Integration**  
+- 🌱 I’m learning **Advanced Flutter, State Management, API Integration, Clean Architecture**  
+- 🎯 Goal: Becoming a **professional Flutter Developer** and building high-performance mobile apps  
 - 📂 All of my projects are available on [My GitHub Profile](https://github.com/AYAEMAD0?tab=repositories)  
 - 💬 Ask me about **Flutter, Dart, Firebase**  
 - 📫 How to reach me: **ayaemadelbaroudy@gmail.com**  
@@ -32,23 +33,16 @@
 
 ## 📊 GitHub Stats  
 
- ![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYAEMAD0&show_icons=true&theme=radical)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYAEMAD0&layout=compact&theme=radical)   
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAEMAD0&theme=radical)  
+| ![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYAEMAD0&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYAEMAD0&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAEMAD0&theme=radical) |
+| --- | --- | --- |
 
 ---
 
 ## 📌 Popular Repositories  
 
-[![Quiz App](https://img.shields.io/badge/Quiz%20App-Interactive%20Flutter%20quiz%20using%20API%20+%20Cubit-green?style=for-the-badge)](https://github.com/AYAEMAD0/QuizApp)  
-
-[![Weather App](https://img.shields.io/badge/Weather%20App-Real%20time%20Flutter%20app%20with%20API%20+%20Location-blue?style=for-the-badge)](https://github.com/AYAEMAD0/Weather-App)  
-
-[![Meals App](https://img.shields.io/badge/Meals%20App-Food%20recipes%20with%20local%20data-orange?style=for-the-badge)](https://github.com/AYAEMAD0/Meals)  
-
-[![BMI Calculator](https://img.shields.io/badge/BMI%20Calculator-API%20based%20Flutter%20BMI%20app-purple?style=for-the-badge)](https://github.com/AYAEMAD0/BMICalculatorApp)  
-
-
+| [![Quiz App](https://img.shields.io/badge/Quiz%20App-Interactive%20Flutter%20quiz%20using%20API%20+%20Cubit-green?style=for-the-badge)](https://github.com/AYAEMAD0/QuizApp) | [![Weather App](https://img.shields.io/badge/Weather%20App-Real%20time%20Flutter%20app%20with%20API%20+%20Location-blue?style=for-the-badge)](https://github.com/AYAEMAD0/Weather-App) |
+| --- | --- |
+| [![Meals App](https://img.shields.io/badge/Meals%20App-Food%20recipes%20with%20local%20data-orange?style=for-the-badge)](https://github.com/AYAEMAD0/Meals) | [![BMI Calculator](https://img.shields.io/badge/BMI%20Calculator-API%20based%20Flutter%20BMI%20app-purple?style=for-the-badge)](https://github.com/AYAEMAD0/BMICalculatorApp) |
 
 ---
 
