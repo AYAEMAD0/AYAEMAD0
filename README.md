@@ -35,18 +35,13 @@
 ## 📊 GitHub Stats  
 
 ![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYAEMAD0&show_icons=true&theme=radical)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYAEMAD0&layout=compact&theme=radical)  
+
 
 ---
 ## 📫 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-emad1) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AYAEMAD0) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaemadelbaroudy@gmail.com)  
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=AYAEMAD0&label=Profile%20views&color=0e75b6&style=flat)
-
 
 ---
 
