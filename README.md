@@ -41,9 +41,16 @@
 ## 📌 Popular Repositories  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=QuizApp&theme=radical)](https://github.com/AYAEMAD0/QuizApp)  
+📝 **Quiz App** – A Flutter quiz application using **API integration** and **Cubit state management** to provide interactive multiple-choice quizzes.  
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=Weather-App&theme=radical)](https://github.com/AYAEMAD0/Weather-App)  
+🌦️ **Weather App** – A real-time weather application built with Flutter, **API integration**, **Cubit state management**, and **current location support**.  
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=Meals&theme=radical)](https://github.com/AYAEMAD0/Meals)  
+🍔 **Meals App** – A food recipe application. 
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=BMICalculatorApp&theme=radical)](https://github.com/AYAEMAD0/BMICalculatorApp)  
+⚖️ **BMI Calculator** – A Flutter app that calculates **Body Mass Index (BMI)** using **API integration** and provides results with a simple UI.  
 
 
 ---
