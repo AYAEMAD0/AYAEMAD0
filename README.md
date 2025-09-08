@@ -40,10 +40,21 @@
 
 ---
 
-## 🌍 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/aya-emad-3383a2283/)  
-- [GitHub](https://github.com/AYAEMAD0)  
-- 📧 Gmail: **ayaemadelbaroudy@gmail.com**  
+## 🤝 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aya-emad" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="background-color:white; border-radius:5px;"/>
+  </a>
+  
+  <a href="https://github.com/AYAEMAD0" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="background-color:white; border-radius:5px;"/>
+  </a>
+
+  <a href="mailto:ayaemadelbaroudy@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail" width="40" height="40" style="border-radius:5px;"/>
+  </a>
+</p>
 
 ---
 
