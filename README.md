@@ -40,16 +40,10 @@
 
 ---
 ## 📫 Connect with me  
-## 📫 Connect with me  
 
-- LinkedIn: [www.linkedin.com/in/aya-emad1](https://www.linkedin.com/in/aya-emad1)  
-- GitHub: [github.com/AYAEMAD0](https://github.com/AYAEMAD0)  
-- Email: ayaemadelbaroudy@gmail.com  
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=AYAEMAD0&label=Profile%20views&color=0e75b6&style=flat)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-emad1)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AYAEMAD0)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaemadelbaroudy@gmail.com)  
 
 ---
 
