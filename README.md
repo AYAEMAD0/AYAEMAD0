@@ -41,9 +41,9 @@
 ---
 
 ## 🌍 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/aya-emad-3383a2283)  
+- [LinkedIn](https://www.linkedin.com/in/aya-emad-3383a2283/)  
 - [GitHub](https://github.com/AYAEMAD0)  
-- 📧 Gmail: **ayaemad0@gmail.com**  
+- 📧 Gmail: **ayaemadelbaroudy@gmail.com**  
 
 ---
 
