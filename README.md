@@ -40,20 +40,16 @@
 
 ---
 ## 📫 Connect with me  
+## 📫 Connect with me  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aya-emad1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="background-color:white; border-radius:5px;"/>
-  </a>
+- LinkedIn: [www.linkedin.com/in/aya-emad1](https://www.linkedin.com/in/aya-emad1)  
+- GitHub: [github.com/AYAEMAD0](https://github.com/AYAEMAD0)  
+- Email: ayaemadelbaroudy@gmail.com  
 
-  <a href="https://github.com/AYAEMAD0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="background-color:white; border-radius:5px;"/>
-  </a>
+---
 
-  <a href="mailto:ayaemadelbaroudy@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail" width="40" height="40" style="border-radius:5px;"/>
-  </a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=AYAEMAD0&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ---
 
