@@ -40,16 +40,13 @@
 
 ## 📌 Popular Repositories  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=QuizApp&theme=radical)](https://github.com/AYAEMAD0/QuizApp)  
-📝 **Quiz App** – A Flutter quiz application using **API integration** and **Cubit state management** to provide interactive multiple-choice quizzes.  
+[![Quiz App](https://img.shields.io/badge/Quiz%20App-Interactive%20Flutter%20quiz%20using%20API%20+%20Cubit-green?style=for-the-badge)](https://github.com/AYAEMAD0/QuizApp)  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=Weather-App&theme=radical)](https://github.com/AYAEMAD0/Weather-App)  
-🌦️ **Weather App** – A real-time weather application built with Flutter, **API integration**, **Cubit state management**, and **current location support**.  
+[![Weather App](https://img.shields.io/badge/Weather%20App-Real%20time%20Flutter%20app%20with%20API%20+%20Location-blue?style=for-the-badge)](https://github.com/AYAEMAD0/Weather-App)  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=Meals&theme=radical)](https://github.com/AYAEMAD0/Meals)  
-🍔 **Meals App** – A food recipe application. 
+[![Meals App](https://img.shields.io/badge/Meals%20App-Food%20recipes%20with%20local%20data-orange?style=for-the-badge)](https://github.com/AYAEMAD0/Meals)  
 
-[![BMI Calculator](https://img.shields.io/badge/BMI%20Calculator-A%20Flutter%20app%20using%20API%20for%20BMI%20calculation-blue?style=for-the-badge)](https://github.com/AYAEMAD0/BMICalculatorApp)
+[![BMI Calculator](https://img.shields.io/badge/BMI%20Calculator-API%20based%20Flutter%20BMI%20app-purple?style=for-the-badge)](https://github.com/AYAEMAD0/BMICalculatorApp)  
 
 
 
