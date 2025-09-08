@@ -28,20 +28,38 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </p>
 
-
 ---
-
 
 ## 📊 GitHub Stats  
 
 ![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYAEMAD0&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYAEMAD0&layout=compact&theme=radical)  
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAEMAD0&theme=radical)  
 
 ---
+
+## 📌 Popular Repositories  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=repo-name&theme=radical)](https://github.com/AYAEMAD0/repo-name)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AYAEMAD0&repo=another-repo&theme=radical)](https://github.com/AYAEMAD0/another-repo)  
+
+*(بدلي `repo-name` و `another-repo` باسم مشاريعك الحقيقية)*  
+
+---
+
 ## 📫 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-emad1) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AYAEMAD0) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaemadelbaroudy@gmail.com)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/aya-emad1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AYAEMAD0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:ayaemadelbaroudy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
