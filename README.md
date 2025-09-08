@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Aya Emad  
 
-<!--
-**AYAEMAD0/AYAEMAD0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter Developer** | 🎨 Passionate about Mobile App Design | 💻 Lifelong Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 🔭 I’m currently working on **Mobile App Projects**  
+- 🌱 I’m learning **Advanced Flutter, State Management, API Integration**  
+- 📂 All of my projects are available on [My GitHub Profile](https://github.com/AYAEMAD0?tab=repositories)  
+- 💬 Ask me about **Flutter, Dart, Firebase**  
+- 📫 How to reach me: **ayaelbaroudy0@gmail.com**  
+- ⚡ Fun fact: *I love turning complex problems into beautiful apps*  
+
+---
+
+## 🛠 Languages and Tools  
+- **Languages**: Dart, C++, C, Java, Python
+- **Frameworks & Tools**: Flutter, Firebase, Git/GitHub  
+- **Design**: Figma 
+
+---
+
+## 📊 GitHub Stats  
+
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYAEMAD0&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYAEMAD0&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/aya-emad-3383a2283)  
+- [GitHub](https://github.com/AYAEMAD0)  
+- 📧 Gmail: **ayaemad0@gmail.com**  
+
+---
+
+## 💡 Daily Quote  
+> *"Good people with a good process will outperform good people with no process every time."* – Grady Booch  
+> *"Building apps isn't just my work – it's my passion."*  
