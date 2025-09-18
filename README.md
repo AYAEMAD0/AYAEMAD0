@@ -29,12 +29,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-| ![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYAEMAD0&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYAEMAD0&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AYAEMAD0&theme=radical) |
-| --- | --- | --- |
 
 ---
 
