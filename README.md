@@ -1,4 +1,14 @@
-# 👋 Hi, I'm Aya Emad  
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXYwZ2xsbDBtbDhwOGlxbzZrNjM4eGRnNW4xaGh3ZDB4MmVmcmI5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350" alt="Coding animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=FFA500&center=true&vCenter=true&width=600&height=60&lines=Hi,+I'm+Aya+Emad;Flutter+Developer;" alt="Typing animation" />
+</p>
+
+
+
+
 
 🚀 **Flutter Developer** | 🎨 Passionate about Mobile App Design | 💻 Lifelong Learner  
 
@@ -14,6 +24,7 @@
 - ⚡ Fun fact: *I love turning complex problems into beautiful apps*  
 
 ---
+
 
 ## 🛠 Languages and Tools  
 
@@ -31,14 +42,13 @@
 
 
 ---
-
 ## 📌 Popular Repositories  
 
-| [![Quizzy](https://img.shields.io/badge/Quizzy%20App-Interactive%20Flutter%20quiz%20using%20API%20+%20Cubit-green?style=for-the-badge)](https://github.com/AYAEMAD0/Quizzy) | [![Weather App](https://img.shields.io/badge/Weather%20App-Real%20time%20Flutter%20app%20with%20API%20+%20Location-blue?style=for-the-badge)](https://github.com/AYAEMAD0/Weather-App) |
+| [![Evently](https://img.shields.io/badge/Evently-Event%20Management-8A2BE2?style=for-the-badge&logo=flutter)](https://github.com/AYAEMAD0/Evently_App) | [![News](https://img.shields.io/badge/News%20App-Latest%20News-FF8C00?style=for-the-badge&logo=flutter)](https://github.com/AYAEMAD0/News_App) |
 | --- | --- |
-| [![BMI Calculator](https://img.shields.io/badge/BMI%20Calculator-API%20based%20Flutter%20BMI%20app-purple?style=for-the-badge)](https://github.com/AYAEMAD0/BMICalculatorApp) |
+| [![Quizzy](https://img.shields.io/badge/Quizzy-Interactive%20Quiz-purple?style=for-the-badge&logo=flutter)](https://github.com/AYAEMAD0/Quizzy) | [![Weather](https://img.shields.io/badge/Weather-Real--Time%20App-1E90FF?style=for-the-badge&logo=flutter)](https://github.com/AYAEMAD0/Weather-App) |
 
----
+
 
 ## 📫 Connect with me  
 
